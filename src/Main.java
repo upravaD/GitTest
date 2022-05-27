@@ -1,3 +1,7 @@
 public class Main {
-    String message = "Hello World!!!";
+    static String message = "Hello World!!!";
+
+    public static void main(String[] args) {
+
+    }
 }
